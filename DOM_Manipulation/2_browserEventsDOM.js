@@ -45,5 +45,16 @@
 
 7️⃣ To stop the by default behaviour of any tag we use " .preventDefault( ) ".  
 
-8️⃣9️⃣🔟
+8️⃣ Target Property :  Return the element where the event occured.
+
+    🔸Example: 
+      function main(event){
+          console.log('Para' + event.target.textContent)
+      };
+
+
+
+9️⃣  
+
+🔟
 */
