@@ -3,7 +3,7 @@
 
 2️⃣ To optimize the code we should make sure that we should avoid more reflow and repaint.
 
-3️⃣ 📌 Document Fragment ⇒ It is light weight document object. We use document fragement to avoid re-flow and repaint bcoz reflow and repaint is highly extensive task. 
+3️⃣ 📌 Document Fragment ⇒ It is light weight document object. We use document fragement to avoid re-flow and repaint bcoz reflow and repaint is highly extensive task. And the best practice is to use this where our DOM is continiously changing.
 
 🔸 Example of single reflow and single repaint by using document fragement.
   
