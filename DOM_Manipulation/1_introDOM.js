@@ -58,3 +58,6 @@
 const newChild = document.querySelector(".child");
 
 newChild.setAttribute("id", "big-child");
+
+content.style.cssText =
+  "color: green; background-color: yellow; font-size: 10px";
