@@ -51,10 +51,4 @@
       function main(event){
           console.log('Para' + event.target.textContent)
       };
-
-
-
-9️⃣  
-
-🔟
 */
